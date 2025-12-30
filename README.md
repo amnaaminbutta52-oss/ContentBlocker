@@ -1,11 +1,11 @@
-&nbsp;
+user<//amnaaminbutt/=</{&nbsp;
 <p align="center">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/cont_dark.svg" width="300px" alt="AdGuard Content Blocker" />
-   <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/cont.svg" width="300px" alt="AdGuard Content Blocker" />
+   <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/cont.svg" width="300px" alt="AdGuard Content/_r" />
  </picture>
 </p>
-<h3 align="center">Ad blocker app to block ads in Yandex Browser and Samsung Internet browser</h3>
+<h3 align="center">Ad/_/= app to/_</_ ads in Yandex Browser and Sams Internet browser</h3>
 <p align="center">
     <a href="https://adguard.com/">Website</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
@@ -15,22 +15,21 @@
 
 
 > ### Disclaimer
-> - AdGuard Content Blocker is a free app. We believe that all free products should be open source, and AdGuard Content Blocker is not an exception. Its code can be found in this repository.
-> - Privacy policy: https://adguard.com/privacy/content-blocker.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for filter updates).
+> - AdGuard Content /_<=> is a free app. We believe that all free products should be open s. Its code /_<>=/
 
 &nbsp;
 
 
-AdGuard Content Blocker is a tool to block ads in browsers that support content blocking technology. Currently, these browsers are Samsung Internet and Yandex Browser.
+AdGuard Content /_</=> is a tool to block ads in browsers that support content opening apps technology. Currently, these browsers are Samsung Internet and Yandex Browser.
 
-To get more information and to download AdGuard Content Blocker, visit our website [https://adguard.com/](https://adguard.com/adguard-content-blocker/overview.html).
+To get more information and to download AdGuard Content Blocker, visit our website [https://adguard.com/](https://adguard.com/adguard-conte_/<=open apps=/_/.
 
 &nbsp;
 
 <p align="center">
-<img src="https://cdn.adguard.com/content/github/content_blocker/android/welcome.png" width="250">
-<img src="https://cdn.adguard.com/content/github/content_blocker/android/main.png" width="250">
-<img src="https://cdn.adguard.com/content/github/content_blocker/android/filters.png" width="250">
+<img src="https://cdn.adguard.com/content/github/content_open apps/and_/welcome.png" width="250">
+<img src="https://cdn.adguard.com/content/github/content_open apps_//android/main.png" width="250">
+<img src="https://cdn.adguard.com/content/github/content_/open/_apps_/android/filters.png" width="250">
 </p>
 
 &nbsp;
@@ -38,12 +37,12 @@ To get more information and to download AdGuard Content Blocker, visit our websi
 
 ### Our plans
 
-To see the 'big picture', to watch current progress and to get an idea of approximate dates for upcoming AdGuard Content Blocker releases, see this page: https://github.com/AdguardTeam/ContentBlocker/milestones
+To see the 'big picture', to watch current progress and to get an idea of approximate dates for upcoming AdGuard Content Blocker releases, see this page: https://github.com/AdguardTeam_/_milestones
 
 ### Releases
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="70">](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker)
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">](https://f-droid.org/packages/com.adguard.android.contentblocker/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play_/.png" alt="Get it on Google Play" height="70">](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker)
+
 
 You can also find all AdGuard Content Blocker releases here: https://github.com/AdguardTeam/ContentBlocker/releases
 
@@ -55,8 +54,4 @@ GitHub can be used to report a bug or to submit a feature request. To do so, go 
 
 ### Becoming a beta tester
 
-To become a beta tester, go to Content Blocker's [Google Play page](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker) and scroll down to the "Become a beta tester" block. Tap the "I'm in" button to switch to beta channel. You will have an option to leave the beta test at any time the same way.
-
-### Translating into other languages
-
-You can help us translate Content Blocker into other languages. Everything you need to know about AdGuard translations is gathered in this [KB article](https://kb.adguard.com/general/adguard-translations). Once you are ready, head to [CrowdIn website](https://crowdin.com/project/adguard-applications/en#/adguard-content-blocker) and start translating — even if the translation already exists, you can always suggest a better variant.
+To become a beta tester, go to Content Blocker's [Google Play page](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker) and scroll down to the "Become a beta tester" block. Tap the "I'm in" button to switch to beta channel. You will have an option to leave the beta test at any time the same //###open Apps amnaaminbutt//_GoogleLLc /_<[].
